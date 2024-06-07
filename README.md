@@ -19,7 +19,26 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank
+<p align="left"> 
+  <strong>Programming Languages:</strong> Python, JavaScript, TypeScript, C, SQL <br>
+  <strong>Web Development:</strong> Flask, React, Next.js, Tailwind CSS, Vite, Three.js <br>
+  <strong>Development Tools & Environments:</strong> Git/Github, Emacs, Vim, Linux, Docker <br>
+  <strong>Data Structures & Algorithms:</strong> Linked Lists, Stacks/Queues, Hash Tables, Binary Trees, Sorting, Searching, Big O notation, Recursion <br>
+  <strong>Systems & DevOps:</strong> SSH, SSL/TLS, HTTP/S, Webstack Debugging, Load Balancers, Monitoring, Configuration Management (Puppet), Containerization (Docker) <br>
+  <strong>Networking:</strong> OSI Model, TCP/IP <br>
+  <strong>Databases & Storage:</strong> MySQL, NoSQL, Redis <br>
+  <strong>API Development:</strong> RESTful API <br>
+  <strong>Cloud Services:</strong> Familiar with AWS, Google Cloud, Azure <br>
+  <strong>Orchestration Tools:</strong> Familiar with Kubernetes <br>
+  <strong>Automated Testing:</strong> Jest
+</p>
+
+<h3 align="left">Projects:</h3>
+- **Airbnb Clone:** Full-stack application using Flask and MySQL, including user authentication, data management, and responsive UI.
+- **Simple Shell:** Simple shell in C with command parsing, execution, and error handling.
+- **3D Portfolio:** Interactive 3D portfolio website using Vite, Tailwind CSS, and Three.js.
+- **Bank Transactions Tracker System:** System to track bank transactions using Next.js and the Plaid API, focusing on secure authentication and real-time data fetching.
+- **Printf-like Function in C:** Function in C similar to printf, focusing on string formatting and output handling.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad-suuu&show_icons=true&locale=en&layout=compact" alt="mouad-suuu" /></p>
 
