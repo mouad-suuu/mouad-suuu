@@ -9,7 +9,7 @@
 
 - 👯 I’m looking for a summer Internship **in Software developement**
 
-- 💬 Ask me about **Web Developement , Data analysis**
+- 💬 Ask me about **Web Development , Software Development**
 
 - 📫 How to reach me **moad.menniui@gmail.com**
 
