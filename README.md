@@ -3,15 +3,14 @@
 
 <p align="left"> <a href="https://github.com/mouad-suuu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouad-suuu" alt="mouad-suuu" /></a> </p>
 
-- 🔭 I’m currently studying **Software engineering **
+- 🔭 **Software engineering **
 
-- 🌱 I’m currently learning **new features and web frameworks**
+- 🌱 learning **new technologies, web frameworks and AI integration**
 
-- 👯 I’m looking for a summer Internship **in Software developement**
-
-- 💬 Ask me about **Web Development , Software Development**
 
 - 📫 How to reach me **moad.menniui@gmail.com**
+
+- available to work on **<a href="https://www.upwork.com/freelancers/~019947450e545855c8">Upwork</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
